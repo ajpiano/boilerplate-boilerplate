@@ -25,7 +25,7 @@ README.md.  This can save you up to 45 seconds per project!
 5. Give me credit
 6. Preferably using the word "excellent"
 
-# GET RID OF EVERYTHING BEFORE HERE
+# GET RID OF EVERYTHING BEFORE HERE (and this line, too)
 
 # [YOUR PROJECT NAME] Boilerplate
 
